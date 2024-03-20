@@ -1,6 +1,7 @@
 {
-  "name": "my-plugin",
+  "name": "rod773/my-plugin",
   "type": "wordpress-plugin",
+  "description": "wordpress plugin with php y composer",
   "require": {
     "php": ">=7.4",
     "symfony/http-foundation": "^6.0",
